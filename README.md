@@ -1,4 +1,4 @@
-👋 Hi, I’m @dariahighflycode (ex @dariahighfly)
+👋 Hi, I’m @dariahighflycode (ex https://github.com/DariaHighfly)
 
 I'm a frontend developer with over 5 years of experience.
 
